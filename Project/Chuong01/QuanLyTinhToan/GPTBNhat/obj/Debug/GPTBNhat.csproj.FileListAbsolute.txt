@@ -1,0 +1,4 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\GPTBNhat\bin\Debug\GPTBNhat.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\GPTBNhat\bin\Debug\GPTBNhat.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\GPTBNhat\obj\Debug\GPTBNhat.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\GPTBNhat\obj\Debug\GPTBNhat.pdb

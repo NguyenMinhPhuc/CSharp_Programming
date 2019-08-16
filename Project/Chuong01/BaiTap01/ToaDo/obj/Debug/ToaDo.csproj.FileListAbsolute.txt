@@ -1,0 +1,5 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\BaiTap01\ToaDo\bin\Debug\ToaDo.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\BaiTap01\ToaDo\bin\Debug\ToaDo.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\BaiTap01\ToaDo\obj\Debug\ToaDo.csprojResolveAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\BaiTap01\ToaDo\obj\Debug\ToaDo.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\BaiTap01\ToaDo\obj\Debug\ToaDo.pdb

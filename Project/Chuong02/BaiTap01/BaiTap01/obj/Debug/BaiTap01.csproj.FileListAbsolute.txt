@@ -1,0 +1,4 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\BaiTap01\bin\Debug\BaiTap01.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\BaiTap01\bin\Debug\BaiTap01.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\BaiTap01\obj\Debug\BaiTap01.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\BaiTap01\obj\Debug\BaiTap01.pdb

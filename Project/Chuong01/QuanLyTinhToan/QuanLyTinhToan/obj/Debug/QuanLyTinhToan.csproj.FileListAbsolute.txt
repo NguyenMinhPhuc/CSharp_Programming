@@ -1,0 +1,12 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\bin\Debug\QuanLyTinhToan.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\bin\Debug\QuanLyTinhToan.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\bin\Debug\GPTBNhat.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\bin\Debug\TinhToan.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\bin\Debug\GPTBNhat.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\bin\Debug\TinhToan.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\obj\Debug\QuanLyTinhToan.csprojResolveAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\obj\Debug\QuanLyTinhToan.Frm_Main.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\obj\Debug\QuanLyTinhToan.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\obj\Debug\QuanLyTinhToan.csproj.GenerateResource.Cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\obj\Debug\QuanLyTinhToan.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\QuanLyTinhToan\obj\Debug\QuanLyTinhToan.pdb

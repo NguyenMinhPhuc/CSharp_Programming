@@ -1,0 +1,13 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\bin\Debug\Project_20190816.exe.config
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\bin\Debug\Project_20190816.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\bin\Debug\Project_20190816.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.Frm_Main.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.csproj.GenerateResource.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.csproj.CoreCompileInputs.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.FrmVD_03_01.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.Frm_VD_03_012.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.Frm_VD_03_02.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\Project_20190816\Project_20190816\obj\Debug\Project_20190816.csprojAssemblyReference.cache

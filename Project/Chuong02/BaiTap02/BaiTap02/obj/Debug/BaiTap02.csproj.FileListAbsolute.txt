@@ -1,0 +1,9 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\bin\Debug\BaiTap02.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\bin\Debug\BaiTap02.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.csprojResolveAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.FrmLogin.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.Frm_Main.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.csproj.GenerateResource.Cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap02\BaiTap02\obj\Debug\BaiTap02.pdb

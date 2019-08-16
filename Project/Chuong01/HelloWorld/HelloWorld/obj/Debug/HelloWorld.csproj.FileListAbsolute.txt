@@ -1,0 +1,8 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Frm_Main.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,5 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\TinhToan\bin\Debug\TinhToan.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\TinhToan\bin\Debug\TinhToan.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\TinhToan\obj\Debug\TinhToan.csprojResolveAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\TinhToan\obj\Debug\TinhToan.dll
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong01\QuanLyTinhToan\TinhToan\obj\Debug\TinhToan.pdb

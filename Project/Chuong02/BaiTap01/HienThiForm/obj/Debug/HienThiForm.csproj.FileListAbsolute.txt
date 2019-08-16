@@ -1,0 +1,8 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\bin\Debug\HienThiForm.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\bin\Debug\HienThiForm.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\obj\Debug\HienThiForm.Frm_GiaoDienForm02.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\obj\Debug\HienThiForm.Frm_GiaoDienMot.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\obj\Debug\HienThiForm.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\obj\Debug\HienThiForm.csproj.GenerateResource.Cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\obj\Debug\HienThiForm.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong02\BaiTap01\HienThiForm\obj\Debug\HienThiForm.pdb
