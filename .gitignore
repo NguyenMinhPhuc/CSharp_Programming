@@ -41,7 +41,13 @@
 *.su
 *.idb
 *.pdb
-
+# Visual C++ cache files
+*.aps
+*.cnb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
 # Kernel Module Compile Results
 *.mod*
 *.cmd
