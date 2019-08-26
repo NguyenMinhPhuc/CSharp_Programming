@@ -29,7 +29,7 @@ namespace Project20190819
             if(i>=0)
             {
                 txtNoiDung.SelectionStart = i;
-                txtNoiDung.SelectionLength = txtTimKiem.Text.Length;              
+                txtNoiDung.SelectionLength = txtTimKiem.Text.Length; 
                 MessageBox.Show(txtNoiDung.SelectedText);
             }
             else

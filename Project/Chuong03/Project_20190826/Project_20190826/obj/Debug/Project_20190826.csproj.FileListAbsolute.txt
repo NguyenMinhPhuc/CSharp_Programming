@@ -1,0 +1,16 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\bin\Debug\Project_20190826.exe.config
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\bin\Debug\Project_20190826.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\bin\Debug\Project_20190826.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.csprojAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.FrmMain.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Frm_BaiTap03_01.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.csproj.GenerateResource.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.csproj.CoreCompileInputs.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Frm_BaiTap03_02.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Frm_BaiTap03_04.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Frm_Bai03_05.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Frm_BaiTap03_07.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong03\Project_20190826\Project_20190826\obj\Debug\Project_20190826.Frm_BaiTap03_08.resources
