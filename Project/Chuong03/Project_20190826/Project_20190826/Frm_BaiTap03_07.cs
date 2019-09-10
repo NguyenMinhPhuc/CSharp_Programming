@@ -74,5 +74,15 @@ namespace Project_20190826
         {
 
         }
+
+        private void button1_Click ( object sender, EventArgs e )
+        {
+            var body = "<size=14>Size = 14<br>" +
+             "<b>Bold</b> <i>Italic</i> <u>Underline</u><br>" +
+             "<size=11>Size = 11<br>" +
+             "<color=255, 0, 0>Sample Text</color></size>" +
+             "<br><size=14><color=0, 255, 0><href=https://laptrinhvb.net>https://laptrinhvb.net</href></color></size>";
+            MessageBox.Show(body, "Thong bao", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
+        }
     }
 }

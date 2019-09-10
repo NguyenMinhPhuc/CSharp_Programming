@@ -34,14 +34,15 @@
             this.txtNumberX = new System.Windows.Forms.TextBox();
             this.btnTinhTong = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.txtHienThi01 = new System.Windows.Forms.TextBox();
-            this.txtHienThi02 = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.txtHienThi03 = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
             this.txtKetQua = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.txtHienThi03 = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtHienThi02 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txtHienThi01 = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -108,41 +109,23 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Kết quả";
             // 
-            // label3
+            // txtKetQua
             // 
-            this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(11, 34);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(40, 26);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "S=";
+            this.txtKetQua.ForeColor = System.Drawing.Color.Red;
+            this.txtKetQua.Location = new System.Drawing.Point(53, 145);
+            this.txtKetQua.Name = "txtKetQua";
+            this.txtKetQua.Size = new System.Drawing.Size(756, 32);
+            this.txtKetQua.TabIndex = 7;
             // 
-            // txtHienThi01
+            // label6
             // 
-            this.txtHienThi01.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.txtHienThi01.Location = new System.Drawing.Point(53, 31);
-            this.txtHienThi01.Name = "txtHienThi01";
-            this.txtHienThi01.Size = new System.Drawing.Size(756, 32);
-            this.txtHienThi01.TabIndex = 1;
-            // 
-            // txtHienThi02
-            // 
-            this.txtHienThi02.ForeColor = System.Drawing.Color.Red;
-            this.txtHienThi02.Location = new System.Drawing.Point(53, 69);
-            this.txtHienThi02.Name = "txtHienThi02";
-            this.txtHienThi02.Size = new System.Drawing.Size(756, 32);
-            this.txtHienThi02.TabIndex = 3;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(11, 72);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(40, 26);
-            this.label4.TabIndex = 2;
-            this.label4.Text = "S=";
+            this.label6.AutoSize = true;
+            this.label6.ForeColor = System.Drawing.Color.Black;
+            this.label6.Location = new System.Drawing.Point(11, 148);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(40, 26);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "S=";
             // 
             // txtHienThi03
             // 
@@ -162,29 +145,58 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "S=";
             // 
-            // txtKetQua
+            // txtHienThi02
             // 
-            this.txtKetQua.ForeColor = System.Drawing.Color.Red;
-            this.txtKetQua.Location = new System.Drawing.Point(53, 145);
-            this.txtKetQua.Name = "txtKetQua";
-            this.txtKetQua.Size = new System.Drawing.Size(756, 32);
-            this.txtKetQua.TabIndex = 7;
+            this.txtHienThi02.ForeColor = System.Drawing.Color.Red;
+            this.txtHienThi02.Location = new System.Drawing.Point(53, 69);
+            this.txtHienThi02.Name = "txtHienThi02";
+            this.txtHienThi02.Size = new System.Drawing.Size(756, 32);
+            this.txtHienThi02.TabIndex = 3;
             // 
-            // label6
+            // label4
             // 
-            this.label6.AutoSize = true;
-            this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(11, 148);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(40, 26);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "S=";
+            this.label4.AutoSize = true;
+            this.label4.ForeColor = System.Drawing.Color.Black;
+            this.label4.Location = new System.Drawing.Point(11, 72);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(40, 26);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "S=";
+            // 
+            // txtHienThi01
+            // 
+            this.txtHienThi01.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.txtHienThi01.Location = new System.Drawing.Point(53, 31);
+            this.txtHienThi01.Name = "txtHienThi01";
+            this.txtHienThi01.Size = new System.Drawing.Size(756, 32);
+            this.txtHienThi01.TabIndex = 1;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.ForeColor = System.Drawing.Color.Black;
+            this.label3.Location = new System.Drawing.Point(11, 34);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(40, 26);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "S=";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(92, 42);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Frm_BaiTap03_07
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(838, 294);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnTinhTong);
             this.Controls.Add(this.txtNumberX);
@@ -192,7 +204,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Frm_BaiTap03_07";
             this.Text = "Frm_BaiTap03_07";
             this.Load += new System.EventHandler(this.Frm_BaiTap03_07_Load);
@@ -219,5 +231,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtHienThi01;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button button1;
     }
 }
