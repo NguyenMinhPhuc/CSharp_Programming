@@ -1,0 +1,13 @@
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\bin\Debug\Project_Chuong04.exe.config
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\bin\Debug\Project_Chuong04.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\bin\Debug\Project_Chuong04.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.Frm_Main.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.Frm_VD04_01.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.Properties.Resources.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.csproj.GenerateResource.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.csproj.CoreCompileInputs.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.exe
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.pdb
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.csprojAssemblyReference.cache
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.Frm_ListView.resources
+D:\Learning\Subjects\CSHARP\GitHub\CSharp_Programming\Project\Chuong04\Project_Chuong04\Project_Chuong04\obj\Debug\Project_Chuong04.Frm_ListViewChonMon.resources
